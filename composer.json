@@ -16,9 +16,12 @@
     ],
     "require": {
         "composer/installers": "^2.0",
+        "drupal/bootstrap4": "^3.0",
         "drupal/core-composer-scaffold": "^10.2",
         "drupal/core-project-message": "^10.2",
-        "drupal/core-recommended": "^10.2"
+        "drupal/core-recommended": "^10.2",
+        "drupal/ds": "^3.19",
+        "drupal/field_group": "^3.4"
     },
     "conflict": {
         "drupal/drupal": "*"
